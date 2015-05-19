@@ -54,3 +54,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 Micrium/Software/Evalboards/NUVOTON/NUC100/RealView/OS-Probe/output/F16_V1_14_056_Test.bin
+*.BAT
+*.uvproj
+*.uvopt

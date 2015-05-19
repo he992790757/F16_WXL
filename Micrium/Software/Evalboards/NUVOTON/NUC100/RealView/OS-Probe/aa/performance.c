@@ -1681,7 +1681,7 @@ void PhotoDelOne()
 		Select_Send(0x3C);
 		Local_SignOutCount  = 0  ; 
 		System.Local_SignOutCount_Flag  =0	;
-		OSTimeDly(200);	
+		OSTimeDly(20);	
 	}
 }
 
